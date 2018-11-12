@@ -1,0 +1,11 @@
+# OSX
+#
+.DS_Store
+._*
+
+# VSCode
+.vscode
+tsconfig.json
+jsconfig.json
+bundles/
+package-lock.json
